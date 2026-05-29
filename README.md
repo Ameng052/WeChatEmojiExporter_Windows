@@ -62,16 +62,27 @@ python -m venv .venv
 ## 使用步骤
 
 1. 点击“检测微信”或“选择微信安装目录”；
+
 2. 如未安装兼容版本，可点击“安装微信 3.9.12”；
+
 3. 点击“启动微信并扫码登录”，在微信官方窗口中扫码确认；
+
+   ![image-20260529221148425](D:\Program Files (x86)\typora\picture\image-20260529221148425.png)
+
 4. 选择微信文件目录，例如：
    - `...\WeChat Files\wxid_xxx`
    - `...\WeChat Files\wxid_xxx\FileStorage`
    - `...\WeChat Files\wxid_xxx\FileStorage\CustomEmotion`
+
 5. 勾选“扫描时转换 V1MMWX”，自动读取 PID；
+
 6. 点击“开始扫描”；
+
 7. 在网格中筛选、搜索、选择表情；
+
 8. 点击“导出选中”或“导出全部”。
+
+   ![image-20260529221254774](D:\Program Files (x86)\typora\picture\image-20260529221254774.png)
 
 ## 导出结果
 
