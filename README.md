@@ -1,0 +1,2 @@
+# WeChatEmojiExporter_Windows
+微信v3版本表情包批量导出工具
